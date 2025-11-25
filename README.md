@@ -65,9 +65,7 @@ Amazing work!
 ## Author and Acknowledgement
 Author:
 Lance Caringal
-BSIT-2107
 Ashley Quinones 
-BSIT-2107
 Gwen Mendoza 
 BSIT-2107
 
