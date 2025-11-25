@@ -112,7 +112,6 @@ public class KalikasanApp {
 
         System.out.println("Entry added.");
 
-        //  MESSAGE SYSTEM BASED ON USER INPUT:
         if (recycled > 0) {
             System.out.println(
                     "Amazing work!\n" +
@@ -189,4 +188,5 @@ public class KalikasanApp {
         System.out.println("User ID " + id + " deleted.");
     }
 }
+
 
