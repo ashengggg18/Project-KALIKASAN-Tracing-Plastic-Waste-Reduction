@@ -46,16 +46,13 @@ Menu:
 3) Show user reports
 4) System summary
 5) Delete user (by ID)
-0) Exit
-   
-Choose 1
+0) Exit  
 
-Enter name: Maria
-
-Choose type (1=Student,2=Household,3=Business): 1
-
-Created user: Maria 
-(ID=1)
+  Choose 1
+  Enter name: Maria
+  Choose type (1=Student,2=Household,3=Business): 1
+  Created user: Maria 
+  (ID=1)
 
 Menu:
 Choose: 2
