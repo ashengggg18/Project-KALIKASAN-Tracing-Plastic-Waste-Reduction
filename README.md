@@ -31,6 +31,7 @@ Follow the steps below to compile and run the program using the command line:
 Navigate to the folder where KalikasanApp.java is saved using:
 
    cd path/to/your/folder
+   
 4. Compile the Program
 
 Type:
@@ -38,6 +39,7 @@ Type:
        javac KalikasanApp.java
 
 (If there are no errors, this will generate multiple .class files (one for each class)). 
+
 5. Run the Program
    
     Type:
