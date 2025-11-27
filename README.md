@@ -32,7 +32,7 @@ Navigate to the folder where KalikasanApp.java is saved using:
 
    cd path/to/your/folder
    
-4. Compile the Program
+3. Compile the Program
 
 Type:
 
@@ -40,7 +40,7 @@ Type:
 
 (If there are no errors, this will generate multiple .class files (one for each class)). 
 
-5. Run the Program
+4. Run the Program
    
     Type:
     
@@ -50,60 +50,45 @@ Type:
 
 ## Sample Output
 example during execution:
- 
-Welcome to KALIKASAN — Plastic Waste Tracker
+ Welcome to KALIKASAN — Plastic Waste Tracker
+
 Menu:
 1) Create user
 2) Add daily entry
 3) Show user reports
 4) System summary
 5) Delete user (by ID)
-0) Exit  
-
-  Choose 1
-
-Enter name: Maria
-
+0) Exit
+Choose: 1
+Enter name: Ana
 Choose type (1=Student,2=Household,3=Business): 1
+Created user: Ana (ID=1)
 
-Created user: Maria 
-
-(ID=1)
-
-
-Menu
-
+Menu:
 Choose: 2
-
 Enter user ID: 1
-
-Date (MM-DD-YYYY) or leave blank for today: 01-21-2025
-
+Date (MM-DD-YYYY) or leave blank for today:
 Plastic used (grams): 120
-
-Plastic recycled/avoided (grams): 80
-
+Plastic recycled/avoided (grams): 30
 Entry added.
 
 Amazing work!
+You're making a real difference!
 
- Keep it up! Every small action shapes a more sustainable future.
+Menu:
+Choose: 3
+
+User 1 — Ana (Student)
+Entries:
+  2025-11-27 — used: 120g, recycled/avoided: 30g
+Total reduced (grams): 30
 
 ## Author and Acknowledgement
 Author:
-
 Lance Caringal
+Ashley Quiñones
+Gwen Mendoza
 
-Ashley Quinones 
-
-Gwen Mendoza 
-
-BSIT-2107
-
-Acknowledgements:
-I would like to express our gratitude to the following:
-
-To our Instructor for teaching Java OOP principles.
-Sir Emmanuel Charlie Enriquez
-and to our group who provided feedback during development.
-
+We would like to express our sincere gratitude to the following:
+Sir Emmanuel Charlie Enriquez, our instructor, for teaching us the principles of Java OOP and guiding us throughout the development of this project.
+Our group, for the cooperation, ideas, and constructive feedback that helped improve the final output.
