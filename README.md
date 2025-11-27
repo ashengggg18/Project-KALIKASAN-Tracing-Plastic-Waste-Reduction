@@ -59,6 +59,7 @@ Menu:
 4) System summary
 5) Delete user (by ID)
 0) Exit
+
 Choose: 1
 Enter name: Ana
 Choose type (1=Student,2=Household,3=Business): 1
@@ -72,21 +73,23 @@ Plastic used (grams): 120
 Plastic recycled/avoided (grams): 30
 Entry added.
 
-Amazing work!
-You're making a real difference!
+Amazing work! You're making a real difference!
 
 Menu:
 Choose: 3
-
 User 1 — Ana (Student)
-Entries:
-  2025-11-27 — used: 120g, recycled/avoided: 30g
+Entries: 2025-11-27 — used: 120g, recycled/avoided: 30g
 Total reduced (grams): 30
+
+
 
 ## Author and Acknowledgement
 Author:
+
 Lance Caringal
-Ashley Quiñones
+
+Ashley Quinones
+
 Gwen Mendoza
 
 We would like to express our sincere gratitude to the following:
