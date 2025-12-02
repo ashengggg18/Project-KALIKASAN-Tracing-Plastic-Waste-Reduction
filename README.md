@@ -64,8 +64,7 @@ Enter name: Ana
 Choose type (1 = Student, 2 = Household, 3 = Business): 1
 Created user: Ana (ID = 1)
 
-
-
+------------------------------------------------------------
 
 Menu:
 1. Create user
@@ -84,7 +83,7 @@ Entry added.
 
 Amazing work! You're making a real difference!
 
-
+------------------------------------------------------------
 
 Menu:
 1. Create user
