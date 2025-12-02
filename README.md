@@ -95,9 +95,6 @@ Entries:
 Total reduced (grams): 30
 
 
-Amazing work! You're making a real difference!
-
-
 
 ## Author and Acknowledgement
 Author:
