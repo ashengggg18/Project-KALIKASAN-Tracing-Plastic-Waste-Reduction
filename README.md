@@ -92,3 +92,13 @@ Choose: 3
 User 1 — Ana (Student)
 Entries: 2025-11-27 — used: 120g, recycled/avoided: 30g
 Total reduced (grams): 30
+
+
+
+## Author and Acknowledgement
+Author:
+Lance Caringal
+Ashley Quinones
+Gwen Mendoza
+
+We would like to express our sincere gratitude to **Sir Emmanuel Charlie Enriquez**, our instructor, for teaching us the principles of Java OOP, guiding and support us throughout the development of this project. His advice and encouragement have added to our growth in understanding, and we are grateful for the knowledge. Our group, for the cooperation, ideas, and constructive feedback that helped improve the final output.
