@@ -64,6 +64,7 @@ Enter name: Ana
 Choose type (1 = Student, 2 = Household, 3 = Business): 1
 Created user: Ana (ID = 1)
 
+
 ------------------------------------------------------------
 
 Menu:
