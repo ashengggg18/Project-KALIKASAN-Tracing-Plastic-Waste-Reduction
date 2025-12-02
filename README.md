@@ -49,7 +49,6 @@ Type:
 (You should now see the main menu, and you can begin interacting with the program by choosing options (1–5 or 0)).
 
 ## Sample Output
-
 Welcome to KALIKASAN — Plastic Waste Tracker
 
 Menu:
@@ -63,6 +62,18 @@ Choose: 1
 Enter name: Ana
 Choose type (1=Student,2=Household,3=Business): 1
 Created user: Ana (ID=1)
+
+Menu:
+1. Create user
+2. Add daily entry
+3. Show user reports
+4. System summary
+5. Delete user
+0. Exit
+Choose: 1
+Enter name: Ben
+Choose type (1=Student,2=Household,3=Business): 2
+Created user: Ben (ID=2)
 
 Menu:
 1. Create user
@@ -87,12 +98,62 @@ Menu:
 4. System summary
 5. Delete user
 0. Exit
+Choose: 2
+Enter user ID: 2
+Date (MM-DD-YYYY) or leave blank for today: 11-26-2025
+Plastic used (grams): 200
+Plastic recycled/avoided (grams): 50
+Entry added.
+
+Menu:
+1. Create user
+2. Add daily entry
+3. Show user reports
+4. System summary
+5. Delete user
+0. Exit
 Choose: 3
 User 1 — Ana (Student)
 Entries:
 2025-11-27 — used: 120g, recycled/avoided: 30g
-
 Total reduced (grams): 30
+
+Menu:
+1. Create user
+2. Add daily entry
+3. Show user reports
+4. System summary
+5. Delete user
+0. Exit
+Choose: 3
+User 2 — Ben (Household)
+Entries:
+2025-11-26 — used: 200g, recycled/avoided: 50g
+Total reduced (grams): 50
+
+Menu:
+1. Create user
+2. Add daily entry
+3. Show user reports
+4. System summary
+5. Delete user
+0. Exit
+Choose: 4
+System Summary:
+Total users: 2
+Total plastic used: 320g
+Total plastic recycled/avoided: 80g
+Overall reduction rate: 25%
+
+Menu:
+1. Create user
+2. Add daily entry
+3. Show user reports
+4. System summary
+5. Delete user
+0. Exit
+Choose: 0
+Exiting KALIKASAN. Keep up the good work!
 
 
 
