@@ -49,13 +49,54 @@ Type:
 (You should now see the main menu, and you can begin interacting with the program by choosing options (1–5 or 0)).
 
 ## Sample Output
+Welcome to KALIKASAN — Plastic Waste Tracker
 
+Menu:
+1. Create user
+2. Add daily entry
+3. Show user reports
+4. System summary
+5. Delete user
+0. Exit 
+Choose: 1
+Enter name: Ana
+Choose type (1=Student,2=Household,3=Business): 1
+Created user: Ana (ID=1)
 
+Menu:
+1. Create user
+2. Add daily entry
+3. Show user reports
+4. System summary
+5. Delete user
+0. Exit
+Choose: 2
+Enter user ID: 1
+Date (MM-DD-YYYY) or leave blank for today: 
+Plastic used (grams): 120
+Plastic recycled/avoided (grams): 30
+Entry added.
 
+Amazing work! You're making a real difference!
 
-
-
+Menu:
+1. Create user
+2. Add daily entry
+3. Show user reports
+4. System summary
+5. Delete user
+0. Exit
+Choose: 3
+User 1 — Ana (Student)
+Entries: 2025-11-27 — used: 120g, recycled/avoided: 30g
+Total reduced (grams): 30
 
 
 ## Author and Acknowledgement
-hello
+Author:
+Lance Caringal
+Ashley Quinones
+Gwen Mendoza
+
+We would like to express our sincere gratitude to **Sir Emmanuel Charlie Enriquez**, our instructor, for teaching us the principles of Java OOP, guiding and support us throughout the development of this project. His advice and encouragement have added to our growth in understanding, and we are grateful for the knowledge. Our group, for the cooperation, ideas, and constructive feedback that helped improve the final output.
+
